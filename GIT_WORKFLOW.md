@@ -26,3 +26,7 @@ Use version tags such as v1.0.0 to identify stable releases.
 
 ## Merge Conflict Resolution
 Review conflicting files, edit the conflict markers, test the result, and commit the resolved changes.
+
+## Feature Update
+This feature branch demonstrates the Git feature-branch workflow.
+Changes are committed separately before being proposed for integration.
